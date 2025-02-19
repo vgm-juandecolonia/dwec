@@ -16,7 +16,7 @@ Crear un programa en Node.js que utilice un paquete de npm sencillo para realiza
 
 ---
 
-Modulos utilizados:
+Módulos utilizados:
 
 -   chalk
 -   readline

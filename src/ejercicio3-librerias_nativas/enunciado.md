@@ -34,7 +34,7 @@ Restricciones:
 
 ---
 
-Modulos utilizados:
+Módulos utilizados:
 
 -   os
 -   fs
