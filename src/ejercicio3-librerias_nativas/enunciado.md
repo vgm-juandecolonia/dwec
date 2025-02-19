@@ -1,6 +1,6 @@
 Crea un programa en Node.js que realice las siguientes tareas utilizando librerías nativas os y fs:
 
--   Información del Sistema:
+1.  Información del Sistema:
 
     -   Utilizando la librería os, el programa debe mostrar información del sistema operativo, como:
         -   Nombre del sistema operativo.
@@ -8,7 +8,7 @@ Crea un programa en Node.js que realice las siguientes tareas utilizando librer�
         -   Cantidad de memoria disponible.
         -   Número de CPUs disponibles.
 
--   Crear y Escribir en un Archivo:
+2.  Crear y Escribir en un Archivo:
 
     -   Utilizando la librería fs, el programa debe crear un archivo de texto llamado info_sistema.txt en el que se guardará la información del sistema recolectada en el primer paso.
     -   El archivo debe contener las siguientes líneas:
@@ -17,7 +17,8 @@ Crea un programa en Node.js que realice las siguientes tareas utilizando librer�
         -   La cantidad de memoria disponible (en MB).
         -   El número de CPUs disponibles.
 
--   Leer y Mostrar el Contenido del Archivo:
+3.  Leer y Mostrar el Contenido del Archivo:
+
     -   Después de haber creado el archivo info_sistema.txt, el programa debe leerlo y mostrar su contenido por consola.
 
 Requisitos:
