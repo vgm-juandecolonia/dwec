@@ -14,3 +14,7 @@
 -   Ejercicio 4 - Programa en Node.js que utilice un paquete de npm sencillo
 -   Ejercicio 5 - Crea tu propio ejemplo utilizando la librearía React.
 -   Ejercicio 6 - Haz un ejercicio con JSX, utilizando VITE.
+
+## 20/02/2025
+
+-   Desarrollo de la documentación y apuntes
